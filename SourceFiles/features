@@ -1,0 +1,64 @@
+table head {
+	FontRevision 1.031;
+} head;
+
+include (fea.Classes);
+include (fea.GSUB);
+include (fea.GPOS);
+include (fea.GDEF);
+
+table hhea {
+	Ascender 1536;
+	Descender -512;
+	LineGap 614;
+} hhea;
+
+table OS/2 {
+	FSType 0;
+	UnicodeRange
+		0   # Basic Latin
+		1   # Latin-1 Supplement
+		2   # Latin Extended-A
+		15  # Devanagari
+		;
+	TypoAscender 1536;
+	TypoDescender -512;
+	TypoLineGap 614;
+	Panose 1 0 0 0 0 0 0 0 0 0;
+	XHeight 680;
+	CapHeight 1331;
+	WeightClass 400;	# Normal
+	WidthClass 5;		# Medium
+	Vendor "EKTF";
+} OS/2;
+
+
+table name {
+
+	nameid 0 "Copyright (c) 2014, Ek Type. All rights reserved.";
+	nameid 0 1 "Copyright (c) 2014, Ek Type. All rights reserved.";
+	nameid 0 3 "Copyright (c) 2014, Ek Type. All rights reserved.";	
+
+	nameid  8   "Ek Type";
+	nameid  8 1 "Ek Type";
+	nameid  8 3 "Ek Type";
+
+	nameid 9 "Sarang Kulkarni, Maithili Shingre, Noopur Datye";
+	nameid 9 1 "Sarang Kulkarni, Maithili Shingre, Noopur Datye";
+	nameid 9 3 "Sarang Kulkarni, Maithili Shingre, Noopur Datye";
+
+	nameid 10 "Modak is a Free and Open Source, Heavy-Chubby Devanagari-Latin display typeface. The design started off as one of our heavy hand sketched letterform explorations ...  The characters were cute/round and not bulky/rigid. The consonants and Matras were overlapping, instead of them being successive characters. Conjuncts were drawn as fused forms in which the two separate characters would merge into each other. The challenge was to maintain legibility and consistency in the thin white counter spaces across all characters irrespective of their structural complexity. In an attempt to translate this into a functional font, we designed additional Matras that would match exactly with every character, leaving a thin counter space in between. Custom Ukars were designed according to each character. The resulting typeface is one of its kind and probably the chubbiest Devanagari typeface to be designed so far. Modak Devanagari was designed by Sarang Kulkarni and Maithili Shingre and Modak Latin by Noopur Datye with support from Girish Dalvi and Pradnya Naik. We would like to thank Santosh Kshirsagar, Shubhanand Jog, Vinay Saynekar and Yashodeep Gholap for their suggestions and feedback during the font design process. We would also like to thank faculty and friends from the Industrial Design Centre, IIT Bombay and from Sir J J Institute of Applied Art for their support and encouragement. This project is led by [Ek Type]( http://ektype.in/), a collective of type designers based in Mumbai focused on designing contemporary Indian typefaces.";
+	nameid 10 1 "Modak is a Free and Open Source, Heavy-Chubby Devanagari-Latin display typeface. The design started off as one of our heavy hand sketched letterform explorations ...  The characters were cute/round and not bulky/rigid. The consonants and Matras were overlapping, instead of them being successive characters. Conjuncts were drawn as fused forms in which the two separate characters would merge into each other. The challenge was to maintain legibility and consistency in the thin white counter spaces across all characters irrespective of their structural complexity. In an attempt to translate this into a functional font, we designed additional Matras that would match exactly with every character, leaving a thin counter space in between. Custom Ukars were designed according to each character. The resulting typeface is one of its kind and probably the chubbiest Devanagari typeface to be designed so far. Modak Devanagari was designed by Sarang Kulkarni and Maithili Shingre and Modak Latin by Noopur Datye with support from Girish Dalvi and Pradnya Naik. We would like to thank Santosh Kshirsagar, Shubhanand Jog, Vinay Saynekar and Yashodeep Gholap for their suggestions and feedback during the font design process. We would also like to thank faculty and friends from the Industrial Design Centre, IIT Bombay and from Sir J J Institute of Applied Art for their support and encouragement. This project is led by [Ek Type]( http://ektype.in/), a collective of type designers based in Mumbai focused on designing contemporary Indian typefaces.";
+	nameid 10 3 "Modak is a Free and Open Source, Heavy-Chubby Devanagari-Latin display typeface. The design started off as one of our heavy hand sketched letterform explorations ...  The characters were cute/round and not bulky/rigid. The consonants and Matras were overlapping, instead of them being successive characters. Conjuncts were drawn as fused forms in which the two separate characters would merge into each other. The challenge was to maintain legibility and consistency in the thin white counter spaces across all characters irrespective of their structural complexity. In an attempt to translate this into a functional font, we designed additional Matras that would match exactly with every character, leaving a thin counter space in between. Custom Ukars were designed according to each character. The resulting typeface is one of its kind and probably the chubbiest Devanagari typeface to be designed so far. Modak Devanagari was designed by Sarang Kulkarni and Maithili Shingre and Modak Latin by Noopur Datye with support from Girish Dalvi and Pradnya Naik. We would like to thank Santosh Kshirsagar, Shubhanand Jog, Vinay Saynekar and Yashodeep Gholap for their suggestions and feedback during the font design process. We would also like to thank faculty and friends from the Industrial Design Centre, IIT Bombay and from Sir J J Institute of Applied Art for their support and encouragement. This project is led by [Ek Type]( http://ektype.in/), a collective of type designers based in Mumbai focused on designing contemporary Indian typefaces.";
+
+	nameid 12   "www.ektype.in";
+	nameid 12 1 "www.ektype.in";
+
+	nameid 13 "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+	nameid 13 1 "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+	nameid 13 3 "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+
+	nameid 14   "http://scripts.sil.org/OFL";
+	nameid 14 1 "http://scripts.sil.org/OFL";
+
+} name;
