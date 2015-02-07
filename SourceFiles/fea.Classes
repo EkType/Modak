@@ -97,17 +97,17 @@
 
 @matraItwelve = [NaCha.dv MaHa.dv VaDda.dv NaTaRa.dv MaBaRa.dv NnaTta.dv NnaTtaRa.dv PaMa.dv MaPa.dv MaPaRa.dv];
 
-@matraIthirteen = [GaDha.dv GaNa.dv YaVa.dv NnaDdha.dv CaChaVa.dv TaYa.dv NaGa.dv NaTa.dv GhaGha.dv GhaVa.dv NnaTtha.dv TaNa.dv PaYa.dv MaDa.dv MaBa.dv MaVa.dv VaHa.dv MaKa.dv MaPha.dv];
+@matraIthirteen = [GaDha.dv GaNa.dv YaVa.dv NnaDdha.dv CaChaVa.dv TaYa.dv NaGa.dv NaTa.dv NnaTtha.dv TaNa.dv PaYa.dv MaDa.dv MaBa.dv MaVa.dv VaHa.dv MaKa.dv MaPha.dv];
 
 @matraIfourteen = [GaMa.dv GaYa.dv SsaYa.dv SsaSsa.dv JaTta.dv LaTtaRa.dv NnaDda.dv TaMa.dv ThaVa.dv NaNa.dv BaDda.dv BaDa.dv BaBa.dv BaVa.dv MaTa.dv YaYa.dv LaTta.dv LaTtha.dv LaPa.dv VaYa.dv VaVa.dv ShaTta.dv SsaPa.dv SsaPha.dv GaRaYa.dv SsaPaRa.dv NaYa.dv SsaMa.dv MaMa.dv];
 
-@matraIfifteen = [GaBha.dv GhaNa.dv LaDa.dv LaBa.dv LaVa.dv SsaVa.dv TaRaYa.dv LaPha.dv NaDhaRa.dv LaPhaRa.dv SaTtaRa.dv GhaYa.dv CaVa.dv JaDda.dv NnaHa.dv TaTha.dv DhaVa.dv NaCa.dv NaDha.dv NaMa.dv PaCa.dv PaLa.dv BaTa.dv BhaVa.dv MaNa.dv LaDda.dv LaDdaRa.dv LaDdha.dv SsaKa.dv NyaCha.dv SaTta.dv MaYa.dv CaCha.dv ShaVa.dv];
+@matraIfifteen = [GaBha.dv GhaGha.dv GhaVa.dv  LaDa.dv LaBa.dv LaVa.dv SsaVa.dv TaRaYa.dv LaPha.dv NaDhaRa.dv LaPhaRa.dv SaTtaRa.dv CaVa.dv JaDda.dv NnaHa.dv TaTha.dv DhaVa.dv NaCa.dv NaDha.dv NaMa.dv PaCa.dv PaLa.dv BaTa.dv BhaVa.dv MaNa.dv LaDda.dv LaDdaRa.dv LaDdha.dv SsaKa.dv NyaCha.dv SaTta.dv MaYa.dv CaCha.dv ShaVa.dv];
 
-@matraIsixteen = [GaNna.dv GhaMa.dv GaLa.dv JaKa.dv JaDa.dv JaBa.dv JaVa.dv NnaVa.dv TaLa.dv NaTha.dv BaNa.dv BaYa.dv LaTa.dv GaJa.dv LaHa.dv VaNa.dv ShaPa.dv ShaPha.dv ShaKa.dv ShaKaNukta.dv ShaCha.dv SaDda.dv SaBa.dv SaVa.dv ThaNa.dv LaKa.dv];
+@matraIsixteen = [GaNna.dv GhaNa.dv  GaLa.dv JaKa.dv JaDa.dv JaBa.dv JaVa.dv NnaVa.dv TaLa.dv NaTha.dv BaNa.dv BaYa.dv LaTa.dv GaJa.dv LaHa.dv VaNa.dv ShaPa.dv ShaPha.dv ShaKa.dv ShaKaNukta.dv ShaCha.dv SaDda.dv SaBa.dv SaVa.dv ThaNa.dv LaKa.dv];
 
-@matraIseventeen = [GaSa.dv CaNa.dv ThaYa.dv NaBha.dv CaMa.dv CaYa.dv JaTa.dv TaSa.dv ThaTha.dv DhaNa.dv NaJa.dv PaSa.dv BaDha.dv BhaNa.dv BhaYa.dv VaLa.dv ShaTa.dv ShaNa.dv ShaYa.dv SaDa.dv SaPa.dv SaPha.dv SaKa.dv SaKaRa.dv KaTta.dv KaTtaRa.dv NaSa.dv SaYa.dv SaPaRa.dv];
-
-@matraIeighteen = [KaTtha.dv KaDda.dv KaPa.dv PhaNuktaPhaNukta.dv KaPha.dv KaVa.dv GaJha.dv JaNa.dv NnaNa.dv NnaMa.dv NnaYa.dv DhaMa.dv DhaYa.dv PaSha.dv PhaTta.dv PhaPa.dv MaNna.dv MaLa.dv ShaMa.dv SaTa.dv SaNa.dv DdaYa.dv KaNuktaPhaNukta.dv KaNuktaPha.dv PhaPha.dv ShaRaYa.dv LaGa.dv LaYa.dv];
+@matraIseventeen = [GaSa.dv GhaYa.dv CaNa.dv ThaYa.dv NaBha.dv CaMa.dv CaYa.dv JaTa.dv TaSa.dv ThaTha.dv DhaNa.dv NaJa.dv PaSa.dv BaDha.dv BhaNa.dv BhaYa.dv VaLa.dv ShaTa.dv ShaNa.dv ShaYa.dv SaDa.dv SaPa.dv SaPha.dv SaKa.dv SaKaRa.dv KaTta.dv KaTtaRa.dv NaSa.dv SaYa.dv SaPaRa.dv];
+ 
+@matraIeighteen = [KaTtha.dv KaDda.dv KaPa.dv PhaNuktaPhaNukta.dv KaPha.dv KaVa.dv GaJha.dv GhaMa.dv JaNa.dv NnaNa.dv NnaMa.dv NnaYa.dv DhaMa.dv DhaYa.dv PaSha.dv PhaTta.dv PhaPa.dv MaNna.dv MaLa.dv ShaMa.dv SaTa.dv SaNa.dv DdaYa.dv KaNuktaPhaNukta.dv KaNuktaPha.dv PhaPha.dv ShaRaYa.dv LaGa.dv LaYa.dv];
 
 @matraInineteen = [KaKa.dv KaDa.dv CaCa.dv JhaDda.dv DdhaRaYa.dv JaMa.dv JaYa.dv JhaVa.dv NaJha.dv NaSha.dv PaKha.dv PhaTa.dv BaJa.dv BaBha.dv BaLa.dv BaSha.dv BaSa.dv MaBha.dv MaSa.dv LaCa.dv LaMa.dv SsaNna.dv TtaYa.dv DdhaYa.dv NyaCa.dv KaNuktaKa.dv KaNuktaBa.dv KhaNuktaVa.dv JaNuktaYa.dv PhaNuktaTa.dv KaSsaYa.dv SaTaRa.dv TtaTtaYa.dv KhaVa.dv NyaJa.dv];
 
@@ -138,7 +138,7 @@
 
 @postbase_default = [matraA.dv matraAu.dv matraO.dv matraShortAu.dv matraIi.dv matraShortO.dv matraAChandra.dv matraIiBindu.dv  matraIiReph.dv  matraAuReph.dv matraOReph.dv matraAuBindu.dv matraShortOBindu.dv matraOBindu.dv matraIiRephBindu.dv matraAuRephBindu.dv matraORephBindu.dv matraOChandrabindu.dv matraAuChandrabindu.dv matraIiChandrabindu.dv];
 
-@postbase_default_one = [matraA.dv matraAu.dv matraO.dv matraShortAu.dv matraShortO.dv matraAChandra.dv matraAuReph.dv matraOReph.dv matraAuBindu.dv matraShortOBindu.dv matraOBindu.dv matraAuRephBindu.dv matraORephBindufour.dv matraOChandrabindu.dv matraAuChandrabindu.dv];
+@postbase_default_one = [matraA.dv matraAu.dv matraO.dv matraShortAu.dv matraShortO.dv matraAChandra.dv matraAuReph.dv matraOReph.dv matraAuBindu.dv matraShortOBindu.dv matraOBindu.dv matraAuRephBindu.dv matraORephBindufour.dv matraOChandrabindu.dv matraAuChandrabindu.dv matraORephBindu.dv];
 
 @postbase_default_two = [matraIi.dv matraIiBindu.dv matraIiReph.dv matraIiRephBindu.dv matraIiChandrabindu.dv];
 
@@ -148,7 +148,7 @@
 
 @postbase_three = [matraAathree.dv matraAuthree.dv matraOthree.dv matraShortAuthree.dv matraIithree.dv matraShortOthree.dv matraChandraOthree.dv matraIiBinduthree.dv matraIiRephthree.dv matraAuRephthree.dv matraORephthree.dv matraAuBinduthree.dv matraShortOBinduthree.dv matraOBinduthree.dv matraIiRephBinduthree.dv matraAuRephBinduthree.dv matraORephBinduthree.dv matraOChandrabinduthree.dv matraAuChandrabinduthree.dv matraIiChandrabinduthree.dv];
 
-@postbase_four = [matraAafour.dv matraAufour.dv matraOfour.dv matraShortAufour.dv matraShortOfour.dv matraChandraOfour.dv matraAuRephfour.dv matraORephfour.dv matraAuBindufour.dv matraShortOBindufour.dv matraOBindufour.dv matraAuRephBindufour.dv matraORephBindufour.dv matraOChandrabindufour.dv matraAuChandrabindufour.dv];
+@postbase_four = [matraAafour.dv matraAufour.dv matraOfour.dv matraShortAufour.dv matraShortOfour.dv matraChandraOfour.dv matraAuRephfour.dv matraORephfour.dv matraAuBindufour.dv matraShortOBindufour.dv matraOBindufour.dv matraAuRephBindufour.dv matraORephBindufour.dv matraOChandrabindufour.dv matraAuChandrabindufour.dv matraORephBindufour.dv];
 
 @postbase_four_one = [matraIifour.dv matraIiBindufour.dv matraIiRephfour.dv matraIiRephBindufour.dv matraIiChandrabindufour.dv];
 
@@ -285,53 +285,103 @@
 #===============================================================================
 
 
-@_kern_a_left=[a  agrave aacute acircumflex atilde adieresis aring ae amacron abreve aogonek];
-@_kern_o_left=[o  c d q e ograve oacute ocircumflex otilde odieresis omacron ohungarumlaut egrave eacute ecircumflex edieresis emacron ebreve edotaccent eogonek ecaron oe ccedilla cacute ccaron dcaron dcroat oslash];
-@_kern_b_left=[b  h k l lacute lcommaaccent lcaron kcommaaccent bar];
-@_kern_f_left=[f  f.alt f_f f_f_l f_j f_t f_t.alt ffi fi fl];
-@_kern_i_left=[i  igrave iacute icircumflex idieresis imacron iogonek dotlessi];
-@_kern_m_left=[m  n r p u ntilde nacute ncommaaccent ncaron racute rcommaaccent rcaron r_t r_f r_t.alt ugrave uacute ucircumflex udieresis umacron uring uhungarumlaut uogonek r_f.alt];
-@_kern_t_left=[t  tcommaaccent tcaron uni021B tcommaaccent.alt uni021B.alt t.alt];
-@_kern_a_right=[a  h m n agrave aacute acircumflex atilde adieresis aring ntilde amacron abreve aogonek nacute ncommaaccent ncaron];
-@_kern_dcaron_right=[dcaron  tcaron lcaron];
-@_kern_o_right=[o  b p ograve oacute ocircumflex otilde odieresis omacron ohungarumlaut thorn oslash];
-@_kern_e_right=[e  ae egrave eacute ecircumflex edieresis emacron ebreve edotaccent eogonek ecaron oe];
-@_kern_c_right=[c  ccedilla cacute ccaron];
-@_kern_f_right=[f  f_f r_f];
-@_kern_j_right=[j  f_j T_j];
-@_kern_k_right=[k  kcommaaccent];
-@_kern_r_right=[r  racute rcommaaccent rcaron];
-@_kern_t_right=[t  tcommaaccent uni021B f_t r_t t.alt f_t.alt];
-@_kern_u_right=[u  i l d ugrave uacute ucircumflex udieresis umacron uring uhungarumlaut uogonek igrave iacute icircumflex idieresis imacron iogonek dotlessi fi ffi T_i fl f_f_l];
-@_kern_g_both=[g  gbreve gcommaaccent ];
-@_kern_s_both=[s  sacute scedilla scaron scommaaccent s_s];
-@_kern_w_both=[w  w_w_w];
-@_kern_y_both=[y  yacute ydieresis];
-@_kern_z_both=[z  zacute zcaron zdotaccent];
-@_kern_A_left=[A  Agrave Aacute Acircumflex Atilde Adieresis Aring AE Amacron Abreve Aogonek];
-@_kern_B_Left=[B  D E F H I L P R K N Egrave Eacute Ecircumflex Edieresis Emacron Ebreve Edotaccent Eogonek Ecaron Lcaron Nacute Ncommaaccent Ncaron Racute Rcommaaccent Rcaron Kcommaaccent Lacute Lcommaaccent Ntilde Thorn germandbls Igrave Iacute Icircumflex Idieresis  Imacron Iogonek Idotaccent];
-@_kern_O_left=[O  Q Ograve Oacute Ocircumflex Otilde Odieresis Omacron Ohungarumlaut OE C G Ccedilla Cacute Ccaron Gbreve Gcommaaccent Oslash];
-@_kern_T_left=[T  Tcommaaccent Tcaron uni021A T_i T_j];
-@_kern_U_left=[U  Ugrave Uacute Ucircumflex Udieresis Umacron Uring Uhungarumlaut Uogonek];
-@_kern_Eth_left=[Eth  Dcroat];
-@_kern_A_right=[A  Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek];
-@_kern_B_right=[B  germandbls];
-@_kern_H_right=[H  N Ntilde Nacute Ncommaaccent Ncaron I Igrave Iacute Icircumflex Idieresis Imacron Iogonek Idotaccent];
-@_kern_C_right=[C  Ccedilla Cacute Ccaron];
-@_kern_L_right=[L  Lacute Lcommaaccent Lcaron Lslash];
-@_kern_O_right=[O  Ograve Oacute Ocircumflex Otilde Odieresis Omacron Ohungarumlaut D Eth Dcaron Dcroat Oslash];
-@_kern_S_both=[S  Sacute Scedilla Scaron];
-@_kern_T_right=[T  Tcommaaccent Tcaron uni021A ];
-@_kern_U_right=[U  J Ugrave Uacute Ucircumflex Udieresis Umacron Uring Uhungarumlaut Uogonek];
-@_kern_V_both=[V  W];
-@_kern_Y_both=[Y  Yacute Ydieresis];
-@_kern_period_both=[period  comma quotesinglbase quotedblbase ellipsis];
-@_kern_colon_both=[colon  semicolon];
-@_kern_quote_left=[quoteright  quotedblright quotesingle quotedbl quotedblleft];
-@_kern_quote_right=[quoteleft  quotedblleft quotedbl quotesingle];
-@_kern_hyphen_both=[hyphen  endash emdash];
-@_kern_plus_both=[plus  divide];
-@_kern_E_right=[E  AE Egrave Eacute Ecircumflex Edieresis Emacron Ebreve Edotaccent Eogonek Ecaron];
+@kern_a_left=[a  agrave aacute acircumflex atilde adieresis aring ae amacron abreve aogonek];
+
+@kern_o_left=[o  c d q e ograve oacute ocircumflex otilde odieresis omacron ohungarumlaut egrave eacute ecircumflex edieresis emacron ebreve edotaccent eogonek ecaron oe ccedilla cacute ccaron dcaron dcroat oslash];
+
+@kern_b_left=[b  h k l lacute lcommaaccent lcaron kcommaaccent bar];
+
+@kern_f_left=[f  f.alt f_f f_f_l f_j f_t f_t.alt ffi fi fl];
+
+@kern_i_left=[i  igrave iacute icircumflex idieresis imacron iogonek dotlessi];
+
+@kern_m_left=[m  n r p ntilde nacute ncommaaccent ncaron racute rcommaaccent rcaron r_t r_f r_t.alt r_f.alt];
+
+@kern_t_left=[t  tcommaaccent tcaron uni021B tcommaaccent.alt uni021B.alt t.alt];
+
+@kern_a_right=[a  h m n agrave aacute acircumflex atilde adieresis aring ntilde amacron abreve aogonek nacute ncommaaccent ncaron];
+
+@kern_dcaron_right=[dcaron  tcaron lcaron];
+
+@kern_o_right=[o  b p ograve oacute ocircumflex otilde odieresis omacron ohungarumlaut thorn oslash];
+
+@kern_e_right=[e  ae egrave eacute ecircumflex edieresis emacron ebreve edotaccent eogonek ecaron oe];
+
+@kern_c_right=[c  ccedilla cacute ccaron];
+
+@kern_f_right=[f  f_f r_f];
+
+@kern_j_right=[j  f_j T_j];
+
+@kern_k_right=[k  kcommaaccent];
+
+@kern_r_right=[r  racute rcommaaccent rcaron];
+
+@kern_t_right=[t  tcommaaccent uni021B f_t r_t t.alt f_t.alt];
+
+@kern_u_right=[u  i l d ugrave uacute ucircumflex udieresis umacron uring uhungarumlaut uogonek igrave iacute icircumflex idieresis imacron iogonek dotlessi fi ffi T_i fl f_f_l];
+
+@kern_g_both=[g  gbreve gcommaaccent ];
+
+@kern_s_both=[s  sacute scedilla scaron scommaaccent s_s];
+
+@kern_w_both=[w  w_w_w];
+
+@kern_y_both=[y  yacute ydieresis];
+
+@kern_z_both=[z  zacute zcaron zdotaccent];
+
+@kern_A_left=[A  Agrave Aacute Acircumflex Atilde Adieresis Aring AE Amacron Abreve Aogonek];
+
+@kern_B_Left=[B  D E F H I L P R K N Egrave Eacute Ecircumflex Edieresis Emacron Ebreve Edotaccent Eogonek Ecaron Lcaron Nacute Ncommaaccent Ncaron Racute Rcommaaccent Rcaron Kcommaaccent Lacute Lcommaaccent Ntilde Thorn germandbls Igrave Iacute Icircumflex Idieresis  Imacron Iogonek Idotaccent];
+
+@kern_O_left=[O  Q Ograve Oacute Ocircumflex Otilde Odieresis Omacron Ohungarumlaut OE C G Ccedilla Cacute Ccaron Gbreve Gcommaaccent Oslash];
+
+@kern_T_left=[T  Tcommaaccent Tcaron uni021A T_i T_j];
+
+@kern_U_left=[U  Ugrave Uacute Ucircumflex Udieresis Umacron Uring Uhungarumlaut Uogonek];
+
+@kern_Eth_left=[Eth  Dcroat];
+
+@kern_A_right=[A  Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek];
+
+@kern_B_right=[B  germandbls];
+
+@kern_H_right=[H  N Ntilde Nacute Ncommaaccent Ncaron I Igrave Iacute Icircumflex Idieresis Imacron Iogonek Idotaccent];
+
+@kern_C_right=[C  Ccedilla Cacute Ccaron];
+
+@kern_L_right=[L  Lacute Lcommaaccent Lcaron Lslash];
+
+@kern_O_right=[O  Ograve Oacute Ocircumflex Otilde Odieresis Omacron Ohungarumlaut D Eth Dcaron Dcroat Oslash];
+
+@kern_S_both=[S  Sacute Scedilla Scaron];
+
+@kern_T_right=[T  Tcommaaccent Tcaron uni021A ];
+
+@kern_U_right=[U  J Ugrave Uacute Ucircumflex Udieresis Umacron Uring Uhungarumlaut Uogonek];
+
+@kern_V_both=[V  W];
+
+@kern_Y_both=[Y  Yacute Ydieresis];
+
+@kern_period_both=[period  comma quotesinglbase quotedblbase ellipsis];
+
+@kern_colon_both=[colon  semicolon];
+
+@kern_quote_left=[quoteright  quotedblright quotesingle quotedbl quotedblleft];
+
+@kern_quote_right=[quoteleft  quotedblleft quotedbl quotesingle];
+
+@kern_hyphen_both=[hyphen  endash emdash];
+
+@kern_plus_both=[plus  divide];
+
+@kern_E_right=[E  AE Egrave Eacute Ecircumflex Edieresis Emacron Ebreve Edotaccent Eogonek Ecaron];
+
+@kern_u_left=[u  ucircumflex udieresis umacron uring uhungarumlaut uogonek];
+
+
 
 
 
