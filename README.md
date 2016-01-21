@@ -6,7 +6,7 @@ It began as a heavy hand-sketched letterform exploration in Devanagari with cute
 
 Modak Devanagari is designed by Sarang Kulkarni and Maithili Shingre and Modak Latin by Noopur Datye with support from Girish Dalvi. This project is led by [Ek Type]( http://ektype.in/), a collective of type designers based in Mumbai focused on designing contemporary Indian typefaces.
 
-We are immensely thankful to Santosh Kshirsagar, Pradnya Naik and Yashodeep Gholap for their suggestions and feedback during the font design process. We are also grateful to our friends from the Industrial Design Centre, IIT Bombay and Sir J J Institute of Applied Art for their support and encouragement.
+We are immensely thankful to Santosh Kshirsagar, Pradnya Naik, Yashodeep Gholap and Dave Crossland for their suggestions and feedback during the font design process. We are also grateful to our friends from the Industrial Design Centre, IIT Bombay and Sir J J Institute of Applied Art for their support and encouragement.
 
 
 ## License
