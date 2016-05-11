@@ -1,0 +1,391 @@
+
+#===============================================================================
+#Groups_For_Substitutions
+#===============================================================================
+
+
+@Antyadanda = [vowelA.dv Kha.dv Ga.dv Gha.dv Ca.dv Ja.dv Jha.dv Nya.dv Nna.dv Ta.dv Tha.dv Dha.dv Na.dv Pa.dv Ba.dv Bha.dv Ma.dv Ya.dv La.dv Va.dv Sha.dv Ssa.dv Sa.dv KaSsa.dv JaNya.dv KhaNukta.dv GaNukta.dv JaNukta.dv YaNukta.dv KhaRa.dv GaRa.dv GhaRa.dv CaRa.dv JaRa.dv JhaRa.dv NnaRa.dv TaRa.dv ThaRa.dv DhaRa.dv NaRa.dv PaRa.dv BhaRa.dv MaRa.dv YaRa.dv LaRa.dv VaRa.dv ShaRa.dv SsaRa.dv SaRa.dv KaKha.dv KaCa.dv KaJa.dv KaNna.dv KaTa.dv KaNa.dv KaPa.dv KaMa.dv KaYa.dv KaLa.dv KaVa.dv KaSha.dv KaSa.dv KaJha.dv KhaKha.dv KhaTa.dv KhaNa.dv KhaMa.dv KhaYa.dv KhaVa.dv KhaSha.dv KhaSa.dv GaGa.dv GaGha.dv GaJa.dv GaJha.dv GaNna.dv GaDha.dv GaNa.dv GaBa.dv GaBha.dv GaMa.dv  GaYa.dv GaLa.dv GaVa.dv GaSa.dv GhaGha.dv GhaMa.dv GhaNa.dv GhaYa.dv GhaVa.dv CaCa.dv CaNa.dv CaMa.dv CaYa.dv CaVa.dv JaJa.dv JaJha.dv JaTa.dv JaNa.dv JaBa.dv JaMa.dv JaYa.dv JaVa.dv JhaJha.dv JhaNa.dv JhaMa.dv JhaYa.dv JhaVa.dv NnaNna.dv NnaNa.dv NnaMa.dv NnaYa.dv NnaVa.dv NnaSa.dv TaKha.dv TaTa.dv TaTha.dv TaNa.dv TaPa.dv TaMa.dv TaYa.dv TaLa.dv TaVa.dv TaSa.dv ThaTha.dv ThaNa.dv ThaYa.dv ThaVa.dv DhaNa.dv DhaMa.dv DhaYa.dv DhaVa.dv NaGa.dv NaCa.dv NaJa.dv NaJha.dv NaTa.dv NaTha.dv NaDha.dv NaNa.dv NaPa.dv NaBha.dv NaMa.dv NaYa.dv NaVa.dv NaSha.dv NaSa.dv PaKha.dv PaCa.dv PaTa.dv PaNa.dv PaPa.dv PaMa.dv PaYa.dv PaLa.dv PaVa.dv PaSha.dv PaSa.dv PhaJa.dv PhaTa.dv PhaTha.dv PhaPa.dv PhaYa.dv PhaLa.dv PhaSha.dv PhaSa.dv BaJa.dv BaJha.dv BaTa.dv BaDha.dv BaNa.dv BaBa.dv BaBha.dv BaYa.dv BaLa.dv BaVa.dv BaSha.dv BaSa.dv BhaNa.dv BhaBha.dv BhaYa.dv BhaLa.dv BhaVa.dv MaNna.dv MaTa.dv MaNa.dv MaPa.dv MaBa.dv MaBha.dv MaMa.dv MaYa.dv MaLa.dv MaVa.dv MaSha.dv MaSa.dv YaYa.dv YaVa.dv LaKha.dv LaGa.dv LaCa.dv LaJa.dv LaTa.dv LaTha.dv LaPa.dv LaBa.dv LaBha.dv LaMa.dv LaYa.dv LaLa.dv LaVa.dv LaSha.dv LaSa.dv LlaYa.dv VaNa.dv VaYa.dv VaLa.dv VaVa.dv ShaCa.dv ShaTa.dv ShaNa.dv ShaNaone.dv ShaPa.dv ShaMa.dv ShaYa.dv ShaLa.dv ShaVa.dv ShaSha.dv SsaKha.dv SsaNna.dv SsaPa.dv SsaMa.dv SsaYa.dv SsaVa.dv SsaSsa.dv SaKha.dv SaJa.dv SaTa.dv SaTha.dv SaNa.dv SaPa.dv SaBa.dv SaMa.dv SaYa.dv SaLa.dv SaVa.dv SaSa.dv TtaYa.dv TthaYa.dv DaYa.dv DdhaYa.dv NyaCa.dv NyaJa.dv NyaJha.dv ChaYa.dv KaNuktaTa.dv KaNuktaBa.dv KaNuktaMa.dv KhaNuktaTa.dv KhaNuktaMa.dv KhaNuktaYa.dv KhaNuktaVa.dv KhaNuktaSha.dv KhaNuktaSa.dv JaNuktaJaNukta.dv JaNuktaYa.dv PhaNuktaJaNukta.dv PhaNuktaTa.dv PhaNuktaSa.dv RaNuktaYa.dv KaTaYa.dv KaSsaNna.dv KaSsaMa.dv KaSsaYa.dv GaRaYa.dv ChaRaYa.dv JaJaYa.dv JaJaVa.dv TaTaYa.dv TaTaVa.dv TaMaYa.dv TaRaYa.dv TaSaNa.dv TaSaYa.dv NaKaSa.dv NaTaYa.dv NaTaRa.dv NaTaSa.dv NaNaYa.dv NaThaYa.dv NaThaVa.dv NaDhaYa.dv NaDhaRa.dv NaDhaVa.dv NaPaRa.dv NaBhaYa.dv NaBhaVa.dv NaMaYa.dv NaSaPa.dv NaSaYa.dv PaTaYa.dv BaLaYa.dv MaPaYa.dv MaPaRa.dv MaBaYa.dv MaBaRa.dv SsaTtaYa.dv SsaPaRa.dv SaKaVa.dv SaTaYa.dv SaTaRa.dv SaThaYa.dv SaPaRa.dv TtaTtaYa.dv TthaTthaYa.dv DdaDdaYa.dv DdhaRaYa.dv DaDaYa.dv DaRaYa.dv ShaRaYa.dv KaSaPaRa.dv NaTaRaYa.dv KaTaRa.dv KaSaPa.dv MaPaLa.dv KaKaYa.dv LaLaYa.dv LaHaYa.dv JaJaNya.dv Sha.MAR.dv uni0973 uni0974 uni0975 uni0976 uni0977 uni0979 uni097A];
+
+@Cha_Ending = [Cha.dv ChaRa.dv CaCha.dv NaCha.dv PaCha.dv ShaCha.dv NyaCha.dv ChaHalant.dv];
+
+@Da_Ending = [Da.dv DaRa.dv KaDa.dv GaDa.dv JaDa.dv NaDa.dv BaDa.dv MaDa.dv LaDa.dv SaDa.dv DaGa.dv DaDha.dv DaNa.dv DaBa.dv DaBha.dv DaVa.dv NaDaRa.dv NaDaVa.dv DaHalant.dv];
+
+@Da_EndingForUkar = [Da.dv KaDa.dv GaDa.dv JaDa.dv NaDa.dv BaDa.dv MaDa.dv LaDa.dv SaDa.dv];
+
+@Da_Conjuncts = [DaGa.dv DaDha.dv DaNa.dv DaBa.dv DaBha.dv DaVa.dv NaDaVa.dv DaRa.dv NaDaRa.dv];
+
+@Danda = [matraA.dv matraAaone.dv matraAatwo.dv matraAathree.dv matraAafour.dv matraAafive.dv matraAasix.dv matraAaseven.dv];
+
+@Dda_Ending = [Dda.dv DdaNukta.dv DdaRa.dv KaDda.dv GaDda.dv JaDda.dv JhaDda.dv NnaDda.dv NaDda.dv PaDda.dv BaDda.dv LaDda.dv VaDda.dv ShaDda.dv SaDda.dv KaSaDda.dv LaDdaRa.dv DdaHalant.dv uni097E];
+
+@Dda_EndingForUkar = [Dda.dv DdaNukta.dv KaDda.dv GaDda.dv JaDda.dv JhaDda.dv NnaDda.dv NaDda.dv PaDda.dv BaDda.dv LaDda.dv VaDda.dv ShaDda.dv SaDda.dv KaSaDda.dv];
+
+@Ddha_Ending = [Ddha.dv DdhaNukta.dv DdhaRa.dv GaDdha.dv NnaDdha.dv LaDdha.dv DdhaHalant.dv];
+
+@Ddha_EndingForUkar = [Ddha.dv DdhaNukta.dv GaDdha.dv NnaDdha.dv LaDdha.dv];
+
+@Dha_Ending = [Dha.dv GaDha.dv NaDha.dv BaDha.dv];
+
+@Extra = [KaSsamatraU.dv KaSsamatraUu.dv JaNyamatraU.dv JaNyamatraUu.dv RamatraU.dv RamatraUu.dv HamatraRu.dv TtaRamatraU.dv TtaRamatraUu.dv DdaRamatraU.dv DdaRamatraUu.dv HaNna.dv HaNa.dv HaLa.dv HaVa.dv DaDa.dv];
+
+@ExtendedDanda = [HaMa.dv HaYa.dv NaHaYa.dv LaHaYa.dv DaMa.dv BaRa.dv];
+
+@Ha_Ending = [Ha.dv HaRa.dv NnaHa.dv NaHa.dv MaHa.dv LaHa.dv VaHa.dv RaNuktaHa.dv HaHalant.dv];
+
+@Ha_Conjuncts = [HaNna.dv HaNa.dv HaLa.dv HaVa.dv];
+
+@Halant = [KaHalant.dv NgaHalant.dv ChaHalant.dv TtaHalant.dv TthaHalant.dv DdaHalant.dv DdhaHalant.dv PhaHalant.dv RaHalant.dv HaHalant.dv LlaHalant.dv DaRaHalant.dv ChaRaHalant.dv DdhaRaHalant.dv];
+
+@Jha_Ending = [Jha.dv JhaRa.dv KaJha.dv GaJha.dv JaJha.dv JhaJha.dv NaJha.dv BaJha.dv NyaJha.dv];
+
+@Jha_EndingForUkar = [Jha.dv KaJha.dv GaJha.dv JaJha.dv JhaJha.dv NaJha.dv BaJha.dv NyaJha.dv];
+
+@Ka_Ending = [Ka.dv KaNukta.dv KaRa.dv KaKa.dv KaTaone.dv JaKa.dv TaKa.dv NaKa.dv PaKa.dv MaKa.dv LaKa.dv ShaKa.dv ShaKaNukta.dv SsaKa.dv KaNuktaKa.dv TaKaRa.dv SaKaRa.dv SaKa.dv KaHalant.dv];
+
+@Kha_Ending = [Kha.dv KhaNukta.dv KaKha.dv KhaKha.dv PaKha.dv LaKha.dv SsaKha.dv SaKha.dv];
+
+@Lla_Ending = [Lla.dv LlaNukta.dv LlaHalant.dv La.MAR.dv LlaLla.dv];
+
+@Pha_Ending = [Pha.dv PhaRa.dv PhaNukta.dv KaPha.dv TaPha.dv NaPha.dv PaPha.dv PhaPha.dv MaPha.dv LaPha.dv ShaPha.dv SsaPha.dv SaPha.dv KaNuktaPha.dv KaNuktaPhaNukta.dv PhaNuktaPhaNukta.dv TaSaPha.dv LaPhaRa.dv PhaHalant.dv];
+
+@Ra_Ending = [Ra.dv RaNukta.dv RaHalant.dv];
+
+@Rashtrachinha = [ChaRa.dv TthaRa.dv DdhaRa.dv KaTtaRa.dv LaDdaRa.dv NnaTtaRa.dv NaTtaRa.dv LaTtaRa.dv SaTtaRa.dv KaSaTtaRa.dv SsaTtaRa.dv];
+
+@Tta_Ending = [Tta.dv TtaRa.dv KaTta.dv JaTta.dv NnaTta.dv NaTta.dv PaTta.dv PhaTta.dv LaTta.dv ShaTta.dv SaTta.dv KaSaTta.dv KaTtaRa.dv NaSaTta.dv NnaTtaRa.dv NaTtaRa.dv LaTtaRa.dv SaTtaRa.dv KaSaTtaRa.dv MaPaTta.dv TtaHalant.dv];
+
+@Tta_EndingForUkar = [Tta.dv KaTta.dv JaTta.dv NnaTta.dv NaTta.dv PaTta.dv PhaTta.dv LaTta.dv ShaTta.dv SaTta.dv KaSaTta.dv  NaSaTta.dv MaPaTta.dv];
+
+@Ttha_Ending = [Ttha.dv TthaRa.dv KaTtha.dv NnaTtha.dv PaTtha.dv LaTtha.dv TthaHalant.dv];
+
+@Ttha_EndingForUkar = [Ttha.dv KaTtha.dv NnaTtha.dv PaTtha.dv LaTtha.dv];
+
+@VerticalConjuncts = [NgaKa.dv NgaMa.dv NgaGa.dv NgaYa.dv TtaTta.dv TtaTtha.dv TthaTtha.dv DdhaDdha.dv ChaVa.dv CaChaVa.dv TtaVa.dv];
+
+@Vowels = [vowelU.dv vowelUu.dv vowelRu.dv vowelRuu.dv vowelLru.dv];
+
+
+
+#====================
+# Matra_I_Groups
+#====================
+
+
+@matraIdefault = [Na.dv NaNukta.dv NaRa.dv MaRa.dv Ya.dv YaNukta.dv YaRa.dv Nya.dv uni097A];
+
+@matraIone = [Ra.dv RaNukta.dv];
+
+@matraItwo = [Tta.dv Ttha.dv Dda.dv Ha.dv Pa.dv Va.dv Ba.dv BaRa.dv HaNa.dv HaVa.dv TtaTta.dv TtaTtha.dv TthaTtha.dv DaDa.dv DaYa.dv DdaNukta.dv Nga.dv DdhaDdha.dv TthaRa.dv PaRa.dv VaRa.dv TtaRa.dv TtaVa.dv DdaRa.dv HaRa.dv PaNa.dv Ssa.dv SsaRa.dv uni097E uni097F];
+
+@matraIthree = [Gha.dv Ka.dv HaLa.dv Pha.dv Cha.dv Da.dv Ddha.dv KaRa.dv PhaRa.dv ChaRa.dv DaRa.dv DdhaRa.dv GhaRa.dv HaNna.dv SsaTta.dv SsaTtha.dv DdaDda.dv DdaDdha.dv NgaKa.dv NgaMa.dv NgaGa.dv NgaYa.dv DaGa.dv DaDha.dv DaNa.dv DaBa.dv DaBha.dv DaVa.dv SsaTtaRa.dv DdhaNukta.dv ChaVa.dv];
+
+@matraIfour = [Ga.dv GaNukta.dv GaRa.dv Ta.dv TaRa.dv uni097B];
+
+@matraIfive = [Ma.dv Dha.dv DhaRa.dv CaRa.dv];
+
+@matraIsix = [Ca.dv ThaRa.dv KaTaone.dv];
+
+@matraIseven = [Ja.dv JaNukta.dv JaRa.dv Lla.dv LlaNukta.dv Bha.dv Tha.dv Nna.dv NnaRa.dv La.dv LaRa.dv BhaRa.dv La.MAR.dv uni097C uni0979];
+
+@matraIeight = [Sa.dv Sha.dv Jha.dv JaNya.dv KaSsa.dv ShaRa.dv ShaNaone.dv DaMa.dv PaTta.dv PaTtha.dv SaRa.dv JhaRa.dv JhaNa.dv Sha.MAR.dv];
+
+@matraInine = [Kha.dv KhaNukta.dv KhaRa.dv PaPa.dv RaNuktaHa.dv TaPa.dv KhaNa.dv];
+
+@matraIten = [NaPa.dv NaTtaRa.dv NaPaRa.dv HaMa.dv HaYa.dv PaDda.dv PaVa.dv GaGha.dv GaDda.dv GaDdha.dv GaDa.dv PaCha.dv TaPha.dv PaPha.dv PaKa.dv TaVa.dv NaTta.dv];
+
+@matraIeleven = [NaHa.dv PaTa.dv NaDaVa.dv GaBa.dv GaVa.dv TaKa.dv TaKaRa.dv NaKa.dv NaPha.dv NaVa.dv GaGa.dv TaTa.dv NaDa.dv RaNuktaYa.dv NaDaRa.dv NaDda.dv];
+
+@matraItwelve = [NaCha.dv MaHa.dv VaDda.dv NaTaRa.dv MaBaRa.dv NnaTta.dv NnaTtaRa.dv PaMa.dv MaPa.dv MaPaRa.dv];
+
+@matraIthirteen = [GaDha.dv GaNa.dv YaVa.dv NnaDdha.dv CaChaVa.dv TaYa.dv NaGa.dv NaTa.dv NnaTtha.dv TaNa.dv PaYa.dv MaDa.dv MaBa.dv MaVa.dv VaHa.dv MaKa.dv MaPha.dv];
+
+@matraIfourteen = [GaMa.dv GaYa.dv SsaYa.dv SsaSsa.dv JaTta.dv LaTtaRa.dv NnaDda.dv TaMa.dv ThaVa.dv NaNa.dv BaDda.dv BaDa.dv BaBa.dv BaVa.dv MaTa.dv YaYa.dv LaTta.dv LaTtha.dv LaPa.dv VaYa.dv VaVa.dv ShaTta.dv SsaPa.dv SsaPha.dv GaRaYa.dv SsaPaRa.dv NaYa.dv SsaMa.dv MaMa.dv];
+
+@matraIfifteen = [GaBha.dv GhaGha.dv GhaVa.dv  LaDa.dv LaBa.dv LaVa.dv SsaVa.dv TaRaYa.dv LaPha.dv NaDhaRa.dv LaPhaRa.dv SaTtaRa.dv CaVa.dv JaDda.dv NnaHa.dv TaTha.dv DhaVa.dv NaCa.dv NaDha.dv NaMa.dv PaCa.dv PaLa.dv BaTa.dv BhaVa.dv MaNa.dv LaDda.dv LaDdaRa.dv LaDdha.dv SsaKa.dv NyaCha.dv SaTta.dv MaYa.dv CaCha.dv ShaVa.dv];
+
+@matraIsixteen = [GaNna.dv GhaNa.dv  GaLa.dv JaKa.dv JaDa.dv JaBa.dv JaVa.dv NnaVa.dv TaLa.dv NaTha.dv BaNa.dv BaYa.dv LaTa.dv GaJa.dv LaHa.dv VaNa.dv ShaPa.dv ShaPha.dv ShaKa.dv ShaKaNukta.dv ShaCha.dv SaDda.dv SaBa.dv SaVa.dv ThaNa.dv LaKa.dv];
+
+@matraIseventeen = [GaSa.dv GhaYa.dv CaNa.dv ThaYa.dv NaBha.dv CaMa.dv CaYa.dv JaTa.dv TaSa.dv ThaTha.dv DhaNa.dv NaJa.dv PaSa.dv BaDha.dv BhaNa.dv BhaYa.dv VaLa.dv ShaTa.dv ShaNa.dv ShaYa.dv SaDa.dv SaPa.dv SaPha.dv SaKa.dv SaKaRa.dv KaTta.dv KaTtaRa.dv NaSa.dv SaYa.dv SaPaRa.dv];
+ 
+@matraIeighteen = [KaTtha.dv KaDda.dv KaPa.dv PhaNuktaPhaNukta.dv KaPha.dv KaVa.dv GaJha.dv GhaMa.dv JaNa.dv NnaNa.dv NnaMa.dv NnaYa.dv DhaMa.dv DhaYa.dv PaSha.dv PhaTta.dv PhaPa.dv MaNna.dv MaLa.dv ShaMa.dv SaTa.dv SaNa.dv DdaYa.dv KaNuktaPhaNukta.dv KaNuktaPha.dv PhaPha.dv ShaRaYa.dv LaGa.dv LaYa.dv];
+
+@matraInineteen = [KaKa.dv KaDa.dv CaCa.dv JhaDda.dv DdhaRaYa.dv JaMa.dv JaYa.dv JhaVa.dv NaJha.dv NaSha.dv PaKha.dv PhaTa.dv BaJa.dv BaBha.dv BaLa.dv BaSha.dv BaSa.dv MaBha.dv MaSa.dv LaCa.dv LaMa.dv SsaNna.dv TtaYa.dv DdhaYa.dv NyaCa.dv KaNuktaKa.dv KaNuktaBa.dv KhaNuktaVa.dv JaNuktaYa.dv PhaNuktaTa.dv KaSsaYa.dv SaTaRa.dv TtaTtaYa.dv KhaVa.dv NyaJa.dv];
+
+@matraItwenty = [KaTa.dv NnaNna.dv KaTaRa.dv MaPaTta.dv TaKha.dv PhaYa.dv BhaLa.dv LaJa.dv LaTha.dv LaBha.dv LaLa.dv ShaCa.dv ShaLa.dv SaMa.dv MaSha.dv KaNuktaTa.dv KaSsaMa.dv SsaTtaYa.dv TthaTthaYa.dv DdaDdaYa.dv DaDaYa.dv DaRaYa.dv];
+
+@matraItwentyone = [KaNa.dv KaYa.dv KhaYa.dv KhaTa.dv JaJa.dv JhaYa.dv BaJha.dv BhaBha.dv ShaSha.dv SaJa.dv SaTha.dv TthaYa.dv KhaNuktaTa.dv KhaNuktaYa.dv JaNuktaJaNukta.dv TaTaVa.dv];
+
+@matraItwentytwo = [KaCa.dv KaMa.dv JhaMa.dv NnaSa.dv LaSa.dv SaLa.dv NyaJha.dv KaNuktaMa.dv KaSsaNna.dv NaHaYa.dv PaTaYa.dv LaKha.dv JaJaNya.dv];
+
+@matraItwentythree = [KaJa.dv KhaMa.dv ChaRaYa.dv JaJha.dv PhaJa.dv PhaTha.dv SsaKha.dv SaSa.dv ChaYa.dv KhaNuktaMa.dv PhaNuktaJaNukta.dv TaTaYa.dv];
+
+@matraItwentyfour = [KaNna.dv KaLa.dv KaSa.dv PhaLa.dv PhaSa.dv LaSha.dv SaKha.dv KhaNuktaSa.dv PhaNuktaSa.dv NaTaYa.dv TaMaYa.dv NaNaYa.dv NaThaVa.dv NaSaTta.dv MaPaYa.dv];
+
+@matraItwentyfive = [KaSha.dv KhaSha.dv KhaNuktaSha.dv LaHaYa.dv JhaJha.dv PhaSha.dv LlaYa.dv NaBhaVa.dv NaMaYa.dv NaTaRaYa.dv KhaSa.dv KaKha.dv KaJha.dv TaSaYa.dv NaTaSa.dv NaThaYa.dv NaDhaVa.dv KhaKha.dv MaPaLa.dv];
+
+@matraItwentysix = [TaSaPha.dv TaSaNa.dv NaBhaYa.dv NaSaPa.dv NaSaYa.dv MaBaYa.dv NaDhaYa.dv SaTaYa.dv LlaLla.dv];
+
+@matraItwentyseven = [KaTaYa.dv JaJaVa.dv BaLaYa.dv LaLaYa.dv];
+
+@matraItwentyeight = [KaSaTta.dv SaThaYa.dv KaSaTtaRa.dv];
+
+@matraItwentynine = [KaSaDda.dv JaJaYa.dv NaKaSa.dv KaSaPa.dv SaKaVa.dv KaSaPaRa.dv];
+
+
+#========================
+# Postbase_matra_Groups
+#========================
+
+@postbase_default = [matraA.dv matraAu.dv matraO.dv matraShortAu.dv matraIi.dv matraShortO.dv matraAChandra.dv matraIiBindu.dv  matraIiReph.dv  matraAuReph.dv matraOReph.dv matraAuBindu.dv matraShortOBindu.dv matraOBindu.dv matraIiRephBindu.dv matraAuRephBindu.dv matraORephBindu.dv matraOChandrabindu.dv matraAuChandrabindu.dv matraIiChandrabindu.dv];
+
+@postbase_default_one = [matraA.dv matraAu.dv matraO.dv matraShortAu.dv matraShortO.dv matraAChandra.dv matraAuReph.dv matraOReph.dv matraAuBindu.dv matraShortOBindu.dv matraOBindu.dv matraAuRephBindu.dv matraORephBindufour.dv matraOChandrabindu.dv matraAuChandrabindu.dv matraORephBindu.dv];
+
+@postbase_default_two = [matraIi.dv matraIiBindu.dv matraIiReph.dv matraIiRephBindu.dv matraIiChandrabindu.dv];
+
+@postbase_one = [matraAaone.dv matraAuone.dv matraOone.dv matraShortAuone.dv matraIione.dv matraShortOone.dv matraChandraOone.dv matraIiBinduone.dv matraIiRephone.dv matraAuRephone.dv matraORephone.dv matraAuBinduone.dv matraShortOBinduone.dv matraOBinduone.dv matraIiRephBinduone.dv matraAuRephBinduone.dv matraORephBinduone.dv matraOChandrabinduone.dv matraAuChandrabinduone.dv matraIiChandrabinduone.dv];
+
+@postbase_two = [matraAatwo.dv matraAutwo.dv matraOtwo.dv matraShortAutwo.dv matraIitwo.dv matraShortOtwo.dv matraChandraOtwo.dv matraIiBindutwo.dv matraIiRephtwo.dv matraAuRephtwo.dv matraORephtwo.dv matraAuBindutwo.dv matraShortOBindutwo.dv matraOBindutwo.dv matraIiRephBindutwo.dv matraAuRephBindutwo.dv matraORephBindutwo.dv matraOChandrabindutwo.dv matraAuChandrabindutwo.dv matraIiChandrabindutwo.dv];
+
+@postbase_three = [matraAathree.dv matraAuthree.dv matraOthree.dv matraShortAuthree.dv matraIithree.dv matraShortOthree.dv matraChandraOthree.dv matraIiBinduthree.dv matraIiRephthree.dv matraAuRephthree.dv matraORephthree.dv matraAuBinduthree.dv matraShortOBinduthree.dv matraOBinduthree.dv matraIiRephBinduthree.dv matraAuRephBinduthree.dv matraORephBinduthree.dv matraOChandrabinduthree.dv matraAuChandrabinduthree.dv matraIiChandrabinduthree.dv];
+
+@postbase_four = [matraAafour.dv matraAufour.dv matraOfour.dv matraShortAufour.dv matraShortOfour.dv matraChandraOfour.dv matraAuRephfour.dv matraORephfour.dv matraAuBindufour.dv matraShortOBindufour.dv matraOBindufour.dv matraAuRephBindufour.dv matraORephBindufour.dv matraOChandrabindufour.dv matraAuChandrabindufour.dv matraORephBindufour.dv];
+
+@postbase_four_one = [matraIifour.dv matraIiBindufour.dv matraIiRephfour.dv matraIiRephBindufour.dv matraIiChandrabindufour.dv];
+
+@postbase_five =[matraAafive.dv matraAufive.dv matraOfive.dv matraShortAufive.dv matraIifive.dv  matraShortOfive.dv matraChandraOfive.dv matraIiBindufive.dv matraIiRephfive.dv matraAuRephfive.dv matraORephfive.dv matraAuBindufive.dv matraShortOBindufive.dv  matraOBindufive.dv matraIiRephBindufive.dv matraAuRephBindufive.dv matraORephBindufive.dv matraOChandrabindufive.dv matraAuChandrabindufive.dv matraIiChandrabindufive.dv];
+
+@postbase_six = [matraAasix.dv matraAusix.dv matraOsix.dv matraShortAusix.dv matraIisix.dv matraShortOsix.dv  matraChandraOsix.dv matraIiBindusix.dv matraIiRephsix.dv matraAuRephsix.dv matraORephsix.dv matraAuBindusix.dv matraShortOBindusix.dv matraOBindusix.dv matraIiRephBindusix.dv matraAuRephBindusix.dv matraORephBindusix.dv matraOChandrabindusix.dv matraAuChandrabindusix.dv matraIiChandrabindusix.dv];
+
+@postbase_seven = [matraAaseven.dv matraAuseven.dv matraOseven.dv matraShortAuseven.dv matraIiseven.dv matraShortOseven.dv matraChandraOseven.dv matraIiBinduseven.dv matraIiRephseven.dv matraAuRephseven.dv matraORephseven.dv matraAuBinduseven.dv matraShortOBinduseven.dv matraOBinduseven.dv matraIiRephBinduseven.dv matraAuRephBinduseven.dv matraORephBinduseven.dv matraOChandrabinduseven.dv matraAuChandrabinduseven.dv matraIiChandrabinduseven.dv];
+
+@postbase_eight = [matraIieight.dv matraIiBindueight.dv matraIiRepheight.dv matraIiRephBindueight.dv matraIiChandrabindueight.dv];
+
+@postbase_nine = [matraIinine.dv matraIiBindunine.dv matraIiRephnine.dv matraIiRephBindunine.dv matraIiChandrabindunine.dv];
+
+@postbase_ten = [matraIiten.dv matraIiBinduten.dv matraIiRephten.dv matraIiRephBinduten.dv matraIiChandrabinduten.dv];
+
+
+#===============================================================================
+# for latin subsitutions
+#===============================================================================
+
+
+@for_t.alt =  [p v y yacute ydieresis m n r ntilde nacute ncommaaccent ncaron racute rcommaaccent rcaron t tcommaaccent tcaron uni021B t.alt w w_w_w u ugrave uacute ucircumflex udieresis umacron uring uhungarumlaut uogonek];
+
+@for_f.alt = [b h k l lacute lcommaaccent lcaron lslash kcommaaccent];
+
+
+#===============================================================================
+#Groups_For_Kerning
+#===============================================================================
+
+
+#===============================================================================
+# for Devanagari
+#===============================================================================
+
+@kernVa_BaLeft = [Ba.dv Va.dv BaRa.dv VaRa.dv BaBa.dv BaVa.dv VaDda.dv VaYa.dv VaLa.dv VaVa.dv VaHa.dv BaHalant.dv VaHalant.dv];
+
+@kernI_JhaLeft = [ vowelI.dv  Jha.dv JhaJha.dv JhaNa.dv JhaDda.dv JhaMa.dv JhaYa.dv JhaVa.dv vowelIi.dv JaNya.dv JhaRa.dv JhaHalant.dv JaNyaHalant.dv vowelIiBindu.dv JaNyamatraU.dv JaNyamatraUu.dv];
+
+@kernPa_Pha_SsaLeft = [Pa.dv  Pha.dv Ssa.dv PhaNukta.dv Nna.dv PaKa.dv PaKha.dv PaCa.dv PaCha.dv PaTta.dv PaTtha.dv PaDda.dv PaTa.dv PaNa.dv PaPa.dv PaPha.dv PaMa.dv PaYa.dv PaLa.dv PaVa.dv PaSha.dv PaSa.dv PhaLa.dv PhaSha.dv PhaSa.dv SsaKa.dv SsaKha.dv SsaTta.dv SsaTtha.dv SsaNna.dv SsaPa.dv SsaPha.dv SsaMa.dv SsaYa.dv SsaVa.dv SsaSsa.dv NnaTta.dv NnaTtha.dv NnaDda.dv NnaDdha.dv NnaNna.dv NnaNa.dv NnaMa.dv NnaYa.dv NnaVa.dv NnaSa.dv NnaHa.dv  NnaRa.dv PaRa.dv PhaRa.dv SsaRa.dv NnaHalant.dv PaHalant.dv PhaHalant.dv SsaHalant.dv PhaJa.dv PhaTta.dv PhaTa.dv PhaTha.dv PhaPa.dv PhaPha.dv PhaYa.dv PhaNuktaJaNukta.dv PhaNuktaTa.dv PhaNuktaPhaNukta.dv PhaNuktaSa.dv NnaTtaRa.dv PaTaYa.dv SsaTtaRa.dv SsaTtaYa.dv SsaPaRa.dv];
+
+@kernRa_SaLeft = [Ra.dv  Sa.dv RaHalant.dv SaHalant.dv RamatraU.dv RamatraUu.dv SaKaRa.dv SaKaVa.dv SaTtaRa.dv SaTaYa.dv SaTaRa.dv SaThaYa.dv SaPaRa.dv SaKa.dv SaKha.dv SaJa.dv SaTta.dv SaDda.dv SaTa.dv SaTha.dv SaDa.dv SaNa.dv SaPa.dv SaPha.dv SaBa.dv SaMa.dv SaYa.dv SaLa.dv SaVa.dv SaSa.dv RaNuktaHalant.dv SaRa.dv RaNukta.dv];
+
+@kernDa_TaLeft = [Da.dv  Ta.dv Nya.dv DaRa.dv TtaTta.dv TtaTtha.dv TtaVa.dv TthaTtha.dv DdhaDdha.dv DaGa.dv DaDa.dv DaDha.dv DaNa.dv DaBa.dv DaBha.dv DaVa.dv TaKa.dv TaKha.dv TaTa.dv TaTha.dv TaNa.dv TaPa.dv TaPha.dv TaMa.dv TaYa.dv TaLa.dv TaVa.dv TaSa.dv TaKaRa.dv TaTaYa.dv TaTaVa.dv TaMaYa.dv TaSaPha.dv TaSaNa.dv TaSaYa.dv TtaTtaYa.dv TthaTthaYa.dv NyaHalant.dv TaHalant.dv DaHalant.dv DaRaHalant.dv TtaRamatraU.dv TtaRamatraUu.dv DaDaYa.dv  DaRaYa.dv ];
+
+@kernTta_TthaLeft =[Ttha.dv Sha.MAR.dv Tta.dv KaSsa.dv TtaRa.dv TthaRa.dv TtaYa.dv TthaYa.dv KaSsaNna.dv KaSsaMa.dv KaSsaYa.dv TtaHalant.dv TthaHalant.dv KaSsaHalant.dv KaSsamatraU.dv KaSsamatraUu.dv ];
+@kernMa_JaLeft =[Ma.dv  Ja.dv JaNukta.dv JaHalant.dv MaHalant.dv JaRa.dv MaRa.dv JaKa.dv JaJa.dv JaJha.dv JaTta.dv JaDda.dv JaTa.dv JaDa.dv JaNa.dv JaBa.dv JaMa.dv JaYa.dv JaVa.dv MaKa.dv MaNna.dv MaTa.dv MaDa.dv MaNa.dv MaPa.dv MaPha.dv MaBa.dv MaBha.dv MaMa.dv MaYa.dv MaLa.dv MaVa.dv MaSha.dv MaSa.dv MaHa.dv JaNuktaJaNukta.dv JaNuktaYa.dv JaJaYa.dv JaJaVa.dv JaJaNya.dv MaPaTta.dv MaPaYa.dv MaPaRa.dv MaPaLa.dv MaBaYa.dv MaBaRa.dv];
+
+@kernKa_NaLeft =[Ka.dv  Na.dv NaNukta.dv KaNukta.dv KaHalant.dv NaHalant.dv KaSaTtaRa.dv KaSaPaRa.dv NaTaRaYa.dv NaKaSa.dv NaTtaRa.dv NaTaYa.dv NaTaRa.dv NaTaSa.dv NaNaYa.dv NaThaYa.dv NaThaVa.dv NaDaRa.dv NaDaVa.dv NaDhaYa.dv NaDhaRa.dv NaDhaVa.dv NaPaRa.dv NaBhaYa.dv NaBhaVa.dv NaMaYa.dv NaSaTta.dv NaSaPa.dv NaSaYa.dv NaHaYa.dv KaKaYa.dv KaTtaRa.dv KaTaYa.dv KaTaRa.dv KaSaTta.dv KaSaDda.dv KaSaPa.dv KaNuktaKa.dv KaNuktaTa.dv KaNuktaPhaNukta.dv KaNuktaPha.dv KaNuktaBa.dv KaNuktaMa.dv NaKa.dv NaGa.dv NaCa.dv NaCha.dv NaJa.dv NaJha.dv NaTta.dv NaDda.dv NaTa.dv NaTha.dv NaDa.dv NaDha.dv NaNa.dv NaPa.dv NaPha.dv NaBha.dv NaMa.dv NaYa.dv NaVa.dv NaSha.dv NaSa.dv NaHa.dv KaKa.dv KaKha.dv KaCa.dv KaJa.dv KaJha.dv KaTta.dv KaTtha.dv KaDda.dv KaNna.dv KaTa.dv KaDa.dv KaNa.dv KaPa.dv KaPha.dv KaMa.dv KaYa.dv KaLa.dv KaVa.dv KaSha.dv KaSa.dv KaRa.dv NaRa.dv BaJa.dv BaJha.dv BaDda.dv BaTa.dv BaDa.dv BaDha.dv BaNa.dv BaBha.dv BaYa.dv BaLa.dv BaSha.dv BaSa.dv VaNa.dv];
+
+@kernLa_Dha_LlaLeft =[Lla.dv La.dv La.MAR.dv Ddha.dv DdhaNukta.dv LlaNukta.dv DdhaRa.dv LaRa.dv DdhaYa.dv LaKa.dv LaKha.dv LaGa.dv LaCa.dv LaJa.dv LaTta.dv LaTtha.dv LaDda.dv LaDdha.dv LaTa.dv LaTha.dv LaDa.dv LaPa.dv LaPha.dv LaBa.dv LaBha.dv LaMa.dv LaYa.dv LaLa.dv LaVa.dv LaSha.dv LaSa.dv LaHa.dv LlaYa.dv LaTtaRa.dv LaDdaRa.dv LaPhaRa.dv LaLaYa.dv LaHaYa.dv DdhaHalant.dv LaHalant.dv LlaHalant.dv NyaCa.dv NyaCha.dv NyaJa.dv NyaJha.dv vowelLru.dv LlaLla.dv];
+
+@kernSha_GaLeft=[Ga.dv  Sha.dv GaNukta.dv GaRa.dv GaGa.dv GaGha.dv GaJa.dv GaJha.dv GaDda.dv GaDdha.dv GaNna.dv GaDa.dv GaDha.dv GaNa.dv GaBa.dv GaBha.dv GaMa.dv GaYa.dv GaLa.dv GaVa.dv GaSa.dv ShaKa.dv ShaKaNukta.dv ShaCa.dv ShaCha.dv ShaTta.dv ShaDda.dv ShaTa.dv ShaNa.dv ShaPa.dv ShaPha.dv ShaMa.dv ShaYa.dv ShaLa.dv ShaVa.dv ShaSha.dv GaHalant.dv ShaHalant.dv GaRaHalant.dv GaRaYa.dv];
+
+@kernA_ULeft = [vowelA.dv  vowelShortA.dv vowelAa.dv vowelChandraO.dv vowelShortO.dv vowelO.dv vowelAu.dv vowelChandraA.dv vowelOBindu.dv vowelAuBindu.dv vowelShortABindu.dv vowelShortOBindu.dv vowelU.dv vowelUu.dv uni0973 uni0974 uni0975 uni0976 uni0977];
+
+@kernE_YaLeft = [Ya.dv  vowelE.dv vowelChandraE.dv vowelShortE.dv vowelAi.dv YaNukta.dv YaYa.dv YaVa.dv vowelAiBindu.dv vowelShortEBindu.dv YaHalant.dv YaRa.dv];
+
+@kernGha_Cha_Cha_VaLeft = [Cha.dv  Gha.dv GhaGha.dv GhaNa.dv GhaMa.dv GhaYa.dv GhaVa.dv ChaYa.dv GhaRa.dv ChaRa.dv ChaRaYa.dv GhaHalant.dv ChaHalant.dv ChaRaHalant.dv ChaVa.dv];
+
+@kernDda_NgaLeft = [Dda.dv  Nga.dv DdaNukta.dv DdaYa.dv DdaRa.dv DdaHalant.dv NgaHalant.dv ];
+
+@kernDda_NgaCjctsLeft = [DdaDda.dv  DdaDdha.dv NgaKa.dv NgaMa.dv NgaGa.dv NgaYa.dv DdaDdaYa.dv DdaRamatraU.dv DdaRamatraUu.dv];
+
+@kernKhaLeft = [Kha.dv  KhaNukta.dv KhaKha.dv KhaTa.dv KhaNa.dv KhaMa.dv KhaYa.dv KhaVa.dv KhaSha.dv KhaSa.dv KhaHalant.dv KhaRa.dv]; 
+ 
+@kernCaLeft =[Ca.dv  CaRa.dv CaCa.dv CaCha.dv CaNa.dv CaMa.dv CaYa.dv CaVa.dv CaHalant.dv CaChaVa.dv];
+
+@kernThaLeft =[Tha.dv  ThaTha.dv ThaNa.dv ThaYa.dv ThaVa.dv ThaHalant.dv ThaRa.dv];
+
+@kernDhaLeft=[Dha.dv  DhaRa.dv DhaNa.dv DhaMa.dv DhaYa.dv DhaVa.dv DhaHalant.dv];
+
+@kernBhaLeft =[Bha.dv  BhaNa.dv BhaBha.dv BhaYa.dv BhaLa.dv BhaVa.dv BhaHalant.dv BhaRa.dv];
+
+@kernTraLeft = [TaRa.dv  TaRaYa.dv TaRaHalant.dv];
+
+@kernShraLeft = [ShaRa.dv  ShaNaone.dv ShaRaYa.dv ShaRaHalant.dv];
+
+@kernHru_HruuLeft = [vowelRu.dv vowelRuu.dv];
+
+@kernHaLeft = [Ha.dv  HaNna.dv HaNa.dv HaLa.dv HaVa.dv HaMa.dv HaYa.dv HaHalant.dv HaRa.dv];
+
+@kernI_DdaRight = [vowelI.dv  vowelIi.dv DdaNukta.dv Dda.dv KaDda.dv GaDda.dv JaDda.dv DdaRa.dv HaRa.dv JhaDda.dv NnaDda.dv NnaHa.dv NaDda.dv NaHa.dv PaDda.dv BaDda.dv MaHa.dv LaDda.dv LaHa.dv VaDda.dv VaHa.dv ShaDda.dv SaDda.dv HaNna.dv HaNa.dv HaLa.dv HaVa.dv KaSaDda.dv LaDdaRa.dv DdaHalant.dv HaHalant.dv HamatraRu.dv vowelIiBindu.dv Ha.dv];
+
+@kernTtha_DdhaRight = [Ddha.dv  Ttha.dv DdhaNukta.dv KaTtha.dv GaDdha.dv NnaTtha.dv NnaDdha.dv PaTtha.dv LaTtha.dv LaDdha.dv TthaRa.dv DdhaRa.dv DdhaHalant.dv TthaHalant.dv DdhaRaHalant.dv];
+
+@kernKa_Pha_ChaRight = [Ka.dv  Pha.dv KaNukta.dv PhaNukta.dv KaKa.dv KaTaone.dv KaPha.dv TaPha.dv NaKa.dv CaCha.dv ChaVa.dv JaKa.dv NyaCha.dv TaKa.dv NaCha.dv PaKa.dv PaCha.dv PaPha.dv NaPha.dv PhaPha.dv MaKa.dv MaPha.dv LaKa.dv LaPha.dv ShaCha.dv ShaPha.dv SsaKa.dv SsaPha.dv SaKa.dv SaPha.dv KaNuktaKa.dv KaNuktaPhaNukta.dv KaNuktaPha.dv PhaNuktaPhaNukta.dv CaChaVa.dv TaKaRa.dv TaSaPha.dv LaPhaRa.dv SaKaRa.dv KaHalant.dv ChaHalant.dv PhaHalant.dv ChaRaHalant.dv KaRa.dv ChaRa.dv PhaRa.dv Cha.dv];
+
+@kernERight = [vowelE.dv  vowelChandraE.dv vowelShortE.dv vowelAi.dv vowelAiBindu.dv vowelShortEBindu.dv];
+
+@kernTtaRight = [Tta.dv  TtaHalant.dv TtaRa.dv KaTta.dv JaTta.dv NnaTta.dv NaTta.dv PaTta.dv PhaTta.dv LaTta.dv ShaTta.dv SaTta.dv KaTtaRa.dv KaSaTta.dv NaTtaRa.dv LaTtaRa.dv SaTtaRa.dv KaSaTtaRa.dv NaSaTta.dv NnaTtaRa.dv MaPaTta.dv];
+
+@kernNgaRight = [Nga.dv NgaKa.dv NgaMa.dv NgaGa.dv NgaYa.dv NgaHalant.dv];
+
+@kernLlaRight = [Lla.dv LlaNukta.dv LlaHalant.dv La.MAR.dv LlaLla.dv];
+
+@kernDaRight = [Da.dv DaRa.dv KaDa.dv GaDa.dv JaDa.dv DaGa.dv DaDha.dv DaNa.dv DaBa.dv DaBha.dv DaVa.dv NaDa.dv BaDa.dv MaDa.dv LaDa.dv SaDa.dv NaDaRa.dv NaDaVa.dv DaHalant.dv DaRaHalant.dv];
+
+@kernRaRight = [Ra.dv RaNukta.dv RaHalant.dv RaNuktaHalant.dv];
+
+@kernTta_Ttha_Dda_DdhaCjctsR = [DdaDda.dv  TtaTta.dv TtaTtha.dv TtaVa.dv TthaTtha.dv DdaDdha.dv DdhaDdha.dv];
+
+@kernRlu_RhuuRight = [vowelLru.dv vowelRuu.dv];
+
+@kern5 = [Paach.dv Paanch.dv];
+
+@kernDanda_DoubleDanda = [Danda.dv Doubledanda.dv];
+
+@kern0Left = [zero six];
+
+@kern0Right = [zero nine];
+
+@kern8Right = [eight three];
+
+@kernQuotesLeft = [quoteright quotedblright];
+
+@kernQuotesRight = [quoteleft quotedblleft];
+
+@kernPeriod = [period  comma ellipsis colon semicolon];
+
+@kernBracketsRight = [parenleft  bracketleft braceleft];
+
+@kernRaCjctsLeft = [RaNuktaYa.dv  RaNuktaHa.dv];
+
+@kernDumbQuotes = [quotesingle  quotedbl];
+
+@kernVerticlSsaCjcts = [SsaTta.dv  SsaTtha.dv SsaTtaRa.dv];
+
+@kernAntyaDanda = [vowelA.dv Kha.dv Ga.dv Gha.dv Ca.dv Ja.dv Jha.dv Nya.dv Nna.dv Ta.dv Tha.dv Dha.dv Na.dv Pa.dv Ba.dv Bha.dv Ma.dv Ya.dv La.dv Va.dv Sha.dv Ssa.dv Sa.dv KaSsa.dv JaNya.dv KhaNukta.dv GaNukta.dv JaNukta.dv YaNukta.dv KhaRa.dv GaRa.dv GhaRa.dv CaRa.dv JaRa.dv JhaRa.dv NnaRa.dv TaRa.dv ThaRa.dv DhaRa.dv NaRa.dv PaRa.dv BhaRa.dv MaRa.dv YaRa.dv LaRa.dv VaRa.dv ShaRa.dv SsaRa.dv SaRa.dv KaKha.dv KaCa.dv KaJa.dv KaNna.dv KaTa.dv KaNa.dv KaPa.dv KaMa.dv KaYa.dv KaLa.dv KaVa.dv KaSha.dv KaSa.dv KaJha.dv KhaKha.dv KhaTa.dv KhaNa.dv KhaMa.dv KhaYa.dv KhaVa.dv KhaSha.dv KhaSa.dv GaGa.dv GaGha.dv GaJa.dv GaJha.dv GaNna.dv GaDha.dv GaNa.dv GaBa.dv GaBha.dv GaMa.dv  GaYa.dv GaLa.dv GaVa.dv GaSa.dv GhaGha.dv GhaMa.dv GhaNa.dv GhaYa.dv GhaVa.dv CaCa.dv CaNa.dv CaMa.dv CaYa.dv CaVa.dv JaJa.dv JaJha.dv JaTa.dv JaNa.dv JaBa.dv JaMa.dv JaYa.dv JaVa.dv JhaJha.dv JhaNa.dv JhaMa.dv JhaYa.dv JhaVa.dv NnaNna.dv NnaNa.dv NnaMa.dv NnaYa.dv NnaVa.dv NnaSa.dv TaKha.dv TaTa.dv TaTha.dv TaNa.dv TaPa.dv TaMa.dv TaYa.dv TaLa.dv TaVa.dv TaSa.dv ThaTha.dv ThaNa.dv ThaYa.dv ThaVa.dv DhaNa.dv DhaMa.dv DhaYa.dv DhaVa.dv NaGa.dv NaCa.dv NaJa.dv NaJha.dv NaTa.dv NaTha.dv NaDha.dv NaNa.dv NaPa.dv NaBha.dv NaMa.dv NaYa.dv NaVa.dv NaSha.dv NaSa.dv PaKha.dv PaCa.dv PaTa.dv PaNa.dv PaPa.dv PaMa.dv PaYa.dv PaLa.dv PaVa.dv PaSha.dv PaSa.dv PhaJa.dv PhaTa.dv PhaTha.dv PhaPa.dv PhaYa.dv PhaLa.dv PhaSha.dv PhaSa.dv BaJa.dv BaJha.dv BaTa.dv BaDha.dv BaNa.dv BaBa.dv BaBha.dv BaYa.dv BaLa.dv BaVa.dv BaSha.dv BaSa.dv BhaNa.dv BhaBha.dv BhaYa.dv BhaLa.dv BhaVa.dv MaNna.dv MaTa.dv MaNa.dv MaPa.dv MaBa.dv MaBha.dv MaMa.dv MaYa.dv MaLa.dv MaVa.dv MaSha.dv MaSa.dv YaYa.dv YaVa.dv LaKha.dv LaGa.dv LaCa.dv LaJa.dv LaTa.dv LaTha.dv LaPa.dv LaBa.dv LaBha.dv LaMa.dv LaYa.dv LaLa.dv LaVa.dv LaSha.dv LaSa.dv LlaYa.dv VaNa.dv VaYa.dv VaLa.dv VaVa.dv ShaCa.dv ShaTa.dv ShaNa.dv ShaNaone.dv ShaPa.dv ShaMa.dv ShaYa.dv ShaLa.dv ShaVa.dv ShaSha.dv SsaKha.dv SsaNna.dv SsaPa.dv SsaMa.dv SsaYa.dv SsaVa.dv SsaSsa.dv SaKha.dv SaJa.dv SaTa.dv SaTha.dv SaNa.dv SaPa.dv SaBa.dv SaMa.dv SaYa.dv SaLa.dv SaVa.dv SaSa.dv TtaYa.dv TthaYa.dv DaYa.dv DdhaYa.dv NyaCa.dv NyaJa.dv NyaJha.dv ChaYa.dv KaNuktaTa.dv KaNuktaBa.dv KaNuktaMa.dv KhaNuktaTa.dv KhaNuktaMa.dv KhaNuktaYa.dv KhaNuktaVa.dv KhaNuktaSha.dv KhaNuktaSa.dv JaNuktaJaNukta.dv JaNuktaYa.dv PhaNuktaJaNukta.dv PhaNuktaTa.dv PhaNuktaSa.dv RaNuktaYa.dv KaTaYa.dv KaSsaNna.dv KaSsaMa.dv KaSsaYa.dv GaRaYa.dv ChaRaYa.dv JaJaYa.dv JaJaVa.dv TaTaYa.dv TaTaVa.dv TaMaYa.dv TaRaYa.dv TaSaNa.dv TaSaYa.dv NaKaSa.dv NaTaYa.dv NaTaRa.dv NaTaSa.dv NaNaYa.dv NaThaYa.dv NaThaVa.dv NaDhaYa.dv NaDhaRa.dv NaDhaVa.dv NaPaRa.dv NaBhaYa.dv NaBhaVa.dv NaMaYa.dv NaSaPa.dv NaSaYa.dv PaTaYa.dv BaLaYa.dv MaPaYa.dv MaPaRa.dv MaBaYa.dv MaBaRa.dv SsaTtaYa.dv SsaPaRa.dv SaKaVa.dv SaTaYa.dv SaTaRa.dv SaThaYa.dv SaPaRa.dv TtaTtaYa.dv TthaTthaYa.dv DdaDdaYa.dv DdhaRaYa.dv DaDaYa.dv DaRaYa.dv ShaRaYa.dv KaSaPaRa.dv NaTaRaYa.dv KaTaRa.dv KaSaPa.dv MaPaLa.dv KaKaYa.dv LaLaYa.dv LaHaYa.dv JaJaNya.dv Sha.MAR.dv uni0973 uni0974 uni0975 uni0976 uni0977 uni0979 uni097A matraOBindu.dv matraOReph.dv matraORephBindu.dv matraAuBindu.dv matraAuReph.dv matraAuRephBindu.dv matraIiBindu.dv matraIiReph.dv matraIiRephBindu.dv matraShortOBindu.dv matraOChandrabindu.dv matraAuChandrabindu.dv matraIiChandrabindu.dv matraAaone.dv matraOone.dv matraAuone.dv matraOBinduone.dv matraORephone.dv matraORephBinduone.dv matraAuBinduone.dv matraAuRephone.dv matraAuRephBinduone.dv matraIione.dv matraIiBinduone.dv matraIiRephone.dv matraIiRephBinduone.dv matraChandraOone.dv matraShortOone.dv matraShortAuone.dv matraShortOBinduone.dv matraOChandrabinduone.dv matraAuChandrabinduone.dv matraIiChandrabinduone.dv matraAatwo.dv matraOtwo.dv matraAutwo.dv matraOBindutwo.dv matraORephtwo.dv matraORephBindutwo.dv matraAuBindutwo.dv matraAuRephtwo.dv matraAuRephBindutwo.dv matraIitwo.dv matraIiBindutwo.dv matraIiRephtwo.dv matraIiRephBindutwo.dv matraChandraOtwo.dv matraShortOtwo.dv matraShortAutwo.dv matraShortOBindutwo.dv matraOChandrabindutwo.dv matraAuChandrabindutwo.dv matraIiChandrabindutwo.dv matraAathree.dv matraOthree.dv matraAuthree.dv matraOBinduthree.dv matraORephthree.dv matraORephBinduthree.dv matraAuBinduthree.dv matraAuRephthree.dv matraAuRephBinduthree.dv matraIithree.dv matraIiBinduthree.dv matraIiRephthree.dv matraIiRephBinduthree.dv matraChandraOthree.dv matraShortOthree.dv matraShortAuthree.dv matraShortOBinduthree.dv matraOChandrabinduthree.dv matraAuChandrabinduthree.dv matraIiChandrabinduthree.dv matraAafour.dv matraOfour.dv matraAufour.dv matraOBindufour.dv matraORephfour.dv matraORephBindufour.dv matraAuBindufour.dv matraAuRephfour.dv matraAuRephBindufour.dv matraChandraOfour.dv matraShortOfour.dv matraShortAufour.dv matraShortOBindufour.dv matraOChandrabindufour.dv matraAuChandrabindufour.dv matraAafive.dv matraOfive.dv matraAufive.dv matraOBindufive.dv matraORephfive.dv matraORephBindufive.dv matraAuBindufive.dv matraAuRephfive.dv matraAuRephBindufive.dv matraIifive.dv matraIiBindufive.dv matraIiRephfive.dv matraIiRephBindufive.dv matraChandraOfive.dv matraShortOfive.dv matraShortAufive.dv matraShortOBindufive.dv matraOChandrabindufive.dv matraAuChandrabindufive.dv matraIiChandrabindufive.dv matraAasix.dv matraOsix.dv matraAusix.dv matraOBindusix.dv matraORephsix.dv matraORephBindusix.dv matraAuBindusix.dv matraAuRephsix.dv matraAuRephBindusix.dv matraIisix.dv matraIiBindusix.dv matraIiRephsix.dv matraIiRephBindusix.dv matraChandraOsix.dv matraShortOsix.dv matraShortAusix.dv matraShortOBindusix.dv matraOChandrabindusix.dv matraAuChandrabindusix.dv matraIiChandrabindusix.dv matraAaseven.dv matraOseven.dv matraAuseven.dv matraOBinduseven.dv matraORephseven.dv matraORephBinduseven.dv matraAuBinduseven.dv matraAuRephseven.dv matraAuRephBinduseven.dv matraIiseven.dv matraIiBinduseven.dv matraIiRephseven.dv matraIiRephBinduseven.dv matraChandraOseven.dv matraShortOseven.dv matraShortAuseven.dv matraShortOBinduseven.dv matraOChandrabinduseven.dv matraAuChandrabinduseven.dv matraIiChandrabinduseven.dv matraIifour.dv matraIiBindufour.dv matraIiRephfour.dv matraIiRephBindufour.dv matraIiChandrabindufour.dv matraIieight.dv matraIiBindueight.dv matraIiRepheight.dv matraIiRephBindueight.dv matraIiChandrabindueight.dv matraIinine.dv matraIiBindunine.dv matraIiRephnine.dv matraIiRephBindunine.dv matraIiChandrabindunine.dv matraIiten.dv matraIiBinduten.dv matraIiRephten.dv matraIiRephBinduten.dv matraIiChandrabinduten.dv];
+
+
+#===============================================================================
+# for latin
+#===============================================================================
+
+
+@kern_a_left=[a  agrave aacute acircumflex atilde adieresis aring ae amacron abreve aogonek];
+
+@kern_o_left=[o  c d q e ograve oacute ocircumflex otilde odieresis omacron ohungarumlaut egrave eacute ecircumflex edieresis emacron ebreve edotaccent eogonek ecaron oe ccedilla cacute ccaron dcaron dcroat oslash];
+
+@kern_b_left=[b  h k l lacute lcommaaccent lcaron kcommaaccent bar];
+
+@kern_f_left=[f  f.alt f_f f_f_l f_j f_t f_t.alt ffi fi fl];
+
+@kern_i_left=[i  igrave iacute icircumflex idieresis imacron iogonek dotlessi];
+
+@kern_m_left=[m  n r p ntilde nacute ncommaaccent ncaron racute rcommaaccent rcaron r_t r_f r_t.alt r_f.alt];
+
+@kern_t_left=[t  tcommaaccent tcaron uni021B tcommaaccent.alt uni021B.alt t.alt];
+
+@kern_a_right=[a  h m n agrave aacute acircumflex atilde adieresis aring ntilde amacron abreve aogonek nacute ncommaaccent ncaron];
+
+@kern_dcaron_right=[dcaron  tcaron lcaron];
+
+@kern_o_right=[o  b p ograve oacute ocircumflex otilde odieresis omacron ohungarumlaut thorn oslash];
+
+@kern_e_right=[e  ae egrave eacute ecircumflex edieresis emacron ebreve edotaccent eogonek ecaron oe];
+
+@kern_c_right=[c  ccedilla cacute ccaron];
+
+@kern_f_right=[f  f_f r_f];
+
+@kern_j_right=[j  f_j T_j];
+
+@kern_k_right=[k  kcommaaccent];
+
+@kern_r_right=[r  racute rcommaaccent rcaron];
+
+@kern_t_right=[t  tcommaaccent uni021B f_t r_t t.alt f_t.alt];
+
+@kern_u_right=[u  i l d ugrave uacute ucircumflex udieresis umacron uring uhungarumlaut uogonek igrave iacute icircumflex idieresis imacron iogonek dotlessi fi ffi T_i fl f_f_l];
+
+@kern_g_both=[g  gbreve gcommaaccent ];
+
+@kern_s_both=[s  sacute scedilla scaron scommaaccent s_s];
+
+@kern_w_both=[w  w_w_w];
+
+@kern_y_both=[y  yacute ydieresis];
+
+@kern_z_both=[z  zacute zcaron zdotaccent];
+
+@kern_A_left=[A  Agrave Aacute Acircumflex Atilde Adieresis Aring AE Amacron Abreve Aogonek];
+
+@kern_B_Left=[B  D E F H I L P R K N Egrave Eacute Ecircumflex Edieresis Emacron Ebreve Edotaccent Eogonek Ecaron Lcaron Nacute Ncommaaccent Ncaron Racute Rcommaaccent Rcaron Kcommaaccent Lacute Lcommaaccent Ntilde Thorn germandbls Igrave Iacute Icircumflex Idieresis  Imacron Iogonek Idotaccent];
+
+@kern_O_left=[O  Q Ograve Oacute Ocircumflex Otilde Odieresis Omacron Ohungarumlaut OE C G Ccedilla Cacute Ccaron Gbreve Gcommaaccent Oslash];
+
+@kern_T_left=[T  Tcommaaccent Tcaron uni021A T_i T_j];
+
+@kern_U_left=[U  Ugrave Uacute Ucircumflex Udieresis Umacron Uring Uhungarumlaut Uogonek];
+
+@kern_Eth_left=[Eth  Dcroat];
+
+@kern_A_right=[A  Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek];
+
+@kern_B_right=[B  germandbls];
+
+@kern_H_right=[H  N Ntilde Nacute Ncommaaccent Ncaron I Igrave Iacute Icircumflex Idieresis Imacron Iogonek Idotaccent];
+
+@kern_C_right=[C  Ccedilla Cacute Ccaron];
+
+@kern_L_right=[L  Lacute Lcommaaccent Lcaron Lslash];
+
+@kern_O_right=[O  Ograve Oacute Ocircumflex Otilde Odieresis Omacron Ohungarumlaut D Eth Dcaron Dcroat Oslash];
+
+@kern_S_both=[S  Sacute Scedilla Scaron];
+
+@kern_T_right=[T  Tcommaaccent Tcaron uni021A ];
+
+@kern_U_right=[U  J Ugrave Uacute Ucircumflex Udieresis Umacron Uring Uhungarumlaut Uogonek];
+
+@kern_V_both=[V  W];
+
+@kern_Y_both=[Y  Yacute Ydieresis];
+
+@kern_period_both=[period  comma quotesinglbase quotedblbase ellipsis];
+
+@kern_colon_both=[colon  semicolon];
+
+@kern_quote_left=[quoteright  quotedblright quotesingle quotedbl quotedblleft];
+
+@kern_quote_right=[quoteleft  quotedblleft quotedbl quotesingle];
+
+@kern_hyphen_both=[hyphen  endash emdash];
+
+@kern_plus_both=[plus  divide];
+
+@kern_E_right=[E  AE Egrave Eacute Ecircumflex Edieresis Emacron Ebreve Edotaccent Eogonek Ecaron];
+
+@kern_u_left=[u  ucircumflex udieresis umacron uring uhungarumlaut uogonek];
+
+
+
+
+
+
+
+
+

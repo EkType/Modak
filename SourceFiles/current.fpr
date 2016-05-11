@@ -1,7 +1,7 @@
+InputFontPath	.\Modak.ttf
+OutputFontPath	.\Modak-b.ttf
 ReleaseMode	true
-Renumber	5
+DoSubroutinization	true
 FeaturePath	.\features
 FontMenuDBPath	.\FontMenuNameDB
 GlyphAliasDBPath	.\GlyphOrderAndAliasDB
-InputFontPath	.\font.pfa
-OutputFontPath	.\Modak.otf

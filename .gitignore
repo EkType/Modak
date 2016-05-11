@@ -1,10 +1,14 @@
-# Ignore Files
 # Font Binaries
 *.otf
 *.ttf
 *.exe
-*.bak
-*.pfa
-*.cff
-*.inf
 *.zip
+*.pfa
+*.inf
+*.afm
+*.pfm
+*.fpr
+*.bak
+#Binary Folders
+OTF/
+TTF/

@@ -1,0 +1,51 @@
+table head {
+	FontRevision 1.150;
+} head;
+
+table hhea {
+	Ascender 1536;
+	Descender -512;
+	LineGap 614;
+} hhea;
+
+table OS/2 {
+	FSType 0;
+	UnicodeRange
+		0   # Basic Latin
+		1   # Latin-1 Supplement
+		2   # Latin Extended-A
+		15  # Devanagari
+		;
+	TypoAscender 1536;
+	TypoDescender -512;
+	TypoLineGap 614;
+	Panose 1 0 0 0 0 0 0 0 0 0;
+	XHeight 680;
+	CapHeight 1331;
+	WeightClass 400;	# Normal
+	WidthClass 5;		# Medium
+	Vendor "EKTF";
+} OS/2;
+
+
+table name {
+
+	nameid 0 "Copyright (c) 2014, Ek Type. All rights reserved.";
+	nameid 0 1 "Copyright (c) 2014, Ek Type. All rights reserved.";
+
+	nameid  8   "Ek Type";
+	nameid  8 1 "Ek Type";
+
+	nameid 9 "Sarang Kulkarni, Maithili Shingre, Noopur Datye";
+	nameid 9 1 "Sarang Kulkarni, Maithili Shingre, Noopur Datye";
+
+	nameid 12   "www.ektype.in";
+	nameid 12 1 "www.ektype.in";
+
+	nameid 13 "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+	nameid 13 1 "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+
+	nameid 14   "http://scripts.sil.org/OFL";
+	nameid 14 1 "http://scripts.sil.org/OFL";
+
+} name;
